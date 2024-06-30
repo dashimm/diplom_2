@@ -1,0 +1,4 @@
+
+requests~=2.32.0
+Faker~=25.5.0
+pytest~=8.2.0
